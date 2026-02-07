@@ -11,7 +11,7 @@
         </tr>
         <tr>
             <td colspan='2' align='center'>
-                <input type='submit' value=''
+                <input type='submit' value='submit'
             </td>
         </tr>
     </table>
