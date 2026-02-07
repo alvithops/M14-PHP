@@ -5,6 +5,8 @@
     </head>
     <body>
         <?php
-        if(isset)
+        if(isset($_GET['r'])){
+            
+        }
     </body>
 </html>
