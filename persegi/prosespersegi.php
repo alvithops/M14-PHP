@@ -3,5 +3,5 @@ require_once 'PersegiPanjang.php';
 $panjang = $_POST['panjang'];
 $lebar = $_POST['lebar'];
 
-//ciptakan objek dr kelas
+//ciptakan objek dr kelasPersegi
 
