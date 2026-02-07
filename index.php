@@ -1,18 +1,27 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="id">
 <head>
-<title>OOP PHP</title>
+    <meta charset="UTF-8">
+    <title>OOP PHP - Modul 14</title>
 </head>
 <body>
+
 <?php
-if(isset($_GET['r'])){
-$r = $_GET['r'];
-if($r == "persegi"){
-require_once 'persegi/formpersegi.php';
+// Menggunakan null coalescing operator (??) untuk mengecek input GET
+$route = $_GET['r'] ?? '';
+
+if ($route === 'persegi') {
+    // Pastikan file ini ada agar tidak terjadi error fatal
+    if (file_exists('persegi/formpersegi.php')) {
+        require_once 'persegi/formpersegi.php';
+    } else {
+        echo "<p>Error: File formpersegi.php tidak ditemukan.</p>";
+    }
+} else {
+    // Menampilkan menu jika tidak ada route yang dipilih
+    echo "<a href='index.php?r=persegi'>Hitung Persegi Panjang</a>";
 }
-}else{
 ?>
-<a href='index.php?r=persegi'>Persegi Panjang</a>
-<?php } ?>
+
 </body>
 </html>
