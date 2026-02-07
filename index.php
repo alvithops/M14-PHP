@@ -7,7 +7,9 @@
         <?php
         if(isset($_GET['r'])){
             $r = $_GET['r'];
-            if($r == "persegi")
+            if($r == "persegi"){
+                require_once
+            }
         }
     </body>
 </html>
