@@ -7,7 +7,7 @@
         <h3>Persegi Panjang</h3>
         <table>
             <tr>
-                <th>Panjang tangan  :</th>
+                <th>Panjang tanga:</th>
                 <td><?php echo $pp->panjang; ?></td>
             </tr>
             <tr>
