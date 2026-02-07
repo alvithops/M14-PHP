@@ -1,18 +1,26 @@
-<h3>Persegi Panjang</h3>
-<form action='persegi/prosespersegi.php' method='post'>
-<table>
-<tr>
-<th>Panjang</th>
-<td><input type='text' name='panjang'/></td>
-</tr>
-<tr>
-5
-<th>Lebar</th>
-<td><input type='text' name='lebar'/></td>
-</tr>
-<tr>
-<td colspan='2' align='center'>
-<input type='submit' value='Submit'/></td>
-</tr>
-</table>
+<h3>Hitung Luas & Keliling Persegi Panjang</h3>
+<form action="persegi/prosespersegi.php" method="post">
+    <table border="0" cellpadding="5">
+        <tr>
+            <td><label for="panjang">Panjang</label></td>
+            <td>:</td>
+            <td>
+                <input type="number" name="panjang" id="panjang" required step="any" placeholder="0">
+            </td>
+        </tr>
+        <tr>
+            <td><label for="lebar">Lebar</label></td>
+            <td>:</td>
+            <td>
+                <input type="number" name="lebar" id="lebar" required step="any" placeholder="0">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" align="center">
+                <br>
+                <button type="submit" name="hitung">Hitung Sekarang</button>
+                <button type="reset">Reset</button>
+            </td>
+        </tr>
+    </table>
 </form>
