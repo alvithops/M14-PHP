@@ -12,7 +12,7 @@
             }
         } else {
             ?>
-            <a href='index.php?r=persegi
+            <a href='index.php?r=persegi'>Persegi</a>
         }
     </body>
 </html>
