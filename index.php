@@ -8,7 +8,7 @@
         if(isset($_GET['r'])){
             $r = $_GET['r'];
             if($r == "persegi"){
-                require_once 'persegi'
+                require_once 'persegi/formpersegi.php';
             }
         }
     </body>
