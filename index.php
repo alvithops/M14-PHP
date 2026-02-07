@@ -12,7 +12,7 @@
             }
         } else {
             ?>
-            <a href='index.php?r=persegi'>Persegi</a>
+            <a href='index.php?r=persegi'>Persegi Panjang</a>
         }
     </body>
 </html>
