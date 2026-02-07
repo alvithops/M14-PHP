@@ -2,4 +2,5 @@
 class PersegiPanjang
 {
     //properti
+    public
 }
