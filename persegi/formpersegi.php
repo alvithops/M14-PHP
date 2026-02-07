@@ -3,6 +3,7 @@
     <table>
         <tr>
             <th>Panjang</th>
+            <td></td>
         </tr>
     </table>
 </form>
