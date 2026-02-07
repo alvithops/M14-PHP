@@ -12,7 +12,7 @@
             }
         } else {
             ?>
-            <a href="'index"
+            <a href="'index.php?r"
         }
     </body>
 </html>
