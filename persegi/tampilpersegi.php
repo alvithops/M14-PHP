@@ -16,6 +16,6 @@
             </tr>
         </table>
         <br>
-        <a href="index.">Kembali</a>
+        <a href="../index.php">Kembali</a>
     </body>
 </html>
