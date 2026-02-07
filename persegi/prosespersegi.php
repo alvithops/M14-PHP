@@ -1,2 +1,2 @@
 <?php
-require_once 'Persegi'
+require_once 'PersegiPanjang.php';
