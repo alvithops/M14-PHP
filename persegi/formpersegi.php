@@ -10,7 +10,7 @@
             <td><input type='text' name='lebar'/></td>
         </tr>
         <tr>
-            <td colspan='2'
+            <td colspan='2' align
         </tr>
     </table>
 </form>
