@@ -5,3 +5,4 @@ class PersegiPanjang
     public $panjang;
     public $lebar;
 }
+?>
