@@ -3,7 +3,7 @@
     <table>
         <tr>
             <th>Panjang</th>
-            <td><input type='text' name</td>
+            <td><input type='text' name='panjang'/></td>
         </tr>
     </table>
 </form>
