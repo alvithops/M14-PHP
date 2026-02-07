@@ -11,3 +11,4 @@ $pp->lebar = $lebar;
 
 //tampilkan hasil
 require_once 'tampilpersegi.php';
+?>
