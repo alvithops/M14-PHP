@@ -7,7 +7,7 @@
         <?php
         if(isset($_GET['r'])){
             $r = $_GET['r'];
-            if()
+            if($r == "persegi")
         }
     </body>
 </html>
