@@ -13,6 +13,7 @@
         } else {
             ?>
             <a href='index.php?r=persegi'>Persegi Panjang</a>
+            <?php
         }
     </body>
 </html>
