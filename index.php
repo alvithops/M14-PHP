@@ -10,6 +10,6 @@
             if($r == "persegi"){
                 require_once 'persegi/formpersegi.php';
             }
-        }
+        } else {}
     </body>
 </html>
