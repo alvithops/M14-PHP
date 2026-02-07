@@ -10,6 +10,10 @@
                 <th>Panjang:</th>
                 <td><?php echo $pp->panjang; ?></td>
             </tr>
-            
+            <tr>
+                <th>Lebar:</th>
+                <td><?php echo $pp->lebar; ?></td>
+            </tr>
         </table>
+        <br>
 </html>
