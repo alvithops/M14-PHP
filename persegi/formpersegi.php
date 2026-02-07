@@ -3,7 +3,7 @@
     <table>
         <tr>
             <th>Panjang</th>
-            <td></td>
+            <td><input</td>
         </tr>
     </table>
 </form>
