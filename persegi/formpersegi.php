@@ -10,7 +10,7 @@
             <td><input type='text' name='lebar'/></td>
         </tr>
         <tr>
-            <td colspan='2'><input type='submit' value='Hitung'/></td>
+            <td colspan='2'
         </tr>
     </table>
 </form>
