@@ -10,4 +10,4 @@ $pp->panjang = $panjang;
 $pp->lebar = $lebar;
 
 //tampilkan hasil
-
+require
