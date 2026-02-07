@@ -6,5 +6,6 @@ $lebar = $_POST['lebar'];
 //ciptakan objek dr kelas PersegiPanjang
 $pp = new PersegiPanjang();
 //isi data form ke properti
-$pp->panjang = $panjang
+$pp->panjang = $panjang;
+$pp
 
