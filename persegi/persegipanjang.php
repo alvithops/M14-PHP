@@ -1,2 +1,2 @@
 <?php
-class Persegi
+class PersegiPanjang
