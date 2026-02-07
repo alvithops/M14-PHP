@@ -1,2 +1,2 @@
 <h3>Persegi Panjang</h3>
-<form action
+<form action="'persegi"
