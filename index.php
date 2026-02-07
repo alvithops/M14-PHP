@@ -6,7 +6,8 @@
     <body>
         <?php
         if(isset($_GET['r'])){
-            
+            $r = $_GET['r'];
+            if()
         }
     </body>
 </html>
