@@ -3,5 +3,7 @@
      <head>
     <title>OOP PHP</title>
     </head>
-    <body></body>
+    <body>
+        <?php
+    </body>
 </html>
