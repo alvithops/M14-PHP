@@ -2,7 +2,7 @@
 <form action='persegi/prosespersegi.php' method='post'>
     <table>
         <tr>
-            <th></th>
+            <th>Panjang</th>
         </tr>
     </table>
 </form>
