@@ -7,5 +7,5 @@ $lebar = $_POST['lebar'];
 $pp = new PersegiPanjang();
 //isi data form ke properti
 $pp->panjang = $panjang;
-$pp
+$pp->lebar = $lebar;
 
