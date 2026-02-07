@@ -1,1 +1,1 @@
-<h3>Persegi</h3>
+<h3>Persegi Panjang</h3>
