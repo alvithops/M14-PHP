@@ -8,7 +8,8 @@
         <table>
             <tr>
                 <th>Panjang:</th>
-                <td><?php echo </td>
+                <td><?php echo $pp->panjang; ?></td>
             </tr>
+            
         </table>
 </html>
