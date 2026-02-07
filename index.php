@@ -12,7 +12,7 @@
             }
         } else {
             ?>
-            <a href
+            <a href="'index"
         }
     </body>
 </html>
