@@ -1,5 +1,7 @@
 <!DOCTYPE HTML>
 <html>
+     <head>
     <title>OOP PHP</title>
-    <head></head>
+    </head>
+    <body></body>
 </html>
