@@ -2,5 +2,5 @@
 class PersegiPanjang
 {
     //properti
-    public $
+    public $panjang;
 }
