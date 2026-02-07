@@ -9,5 +9,5 @@ $pp = new PersegiPanjang();
 $pp->panjang = $panjang;
 $pp->lebar = $lebar;
 
-//tampilkan
+//tampilkan hasil
 
